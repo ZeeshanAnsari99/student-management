@@ -6,6 +6,8 @@ It started as a command-line project and was turned into a browser UI.
 
 ![App screenshot](Screenshot.png)
 
+🚀 **Live demo:** https://zeeshan-student-management.streamlit.app
+
 ## ✨ Features
 
 - 🏠 **Dashboard** — totals, school average, student & teacher tables, and an average-by-student chart
